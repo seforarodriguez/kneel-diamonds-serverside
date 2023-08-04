@@ -7,5 +7,3 @@ class Size():
         self.id = id
         self.carets = carets
         self.price = price
-
-new_size = Size(1, 0.5, 405)

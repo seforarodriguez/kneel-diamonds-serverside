@@ -4,7 +4,7 @@ from views import get_all_metals, get_single_metal
 from views import get_all_sizes, get_single_size
 from views import get_all_styles, get_single_style
 from views import get_single_order, get_all_orders, create_order
-from views import delete_order, update_order
+from views import delete_order
 
 
 class HandleRequests(BaseHTTPRequestHandler):

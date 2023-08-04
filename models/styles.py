@@ -7,5 +7,3 @@ class Style():
         self.id = id
         self.style = style
         self.price = price
-
-new_style = Style(1, "Classic", 500)

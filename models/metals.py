@@ -7,5 +7,3 @@ class Metal():
         self.id = id
         self.metal = name
         self.price = price
-
-new_metal = Metal(1, "Sterling Silver", 12.42)
